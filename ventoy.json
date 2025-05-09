@@ -1,0 +1,99 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_KBD_LAYOUT": "SPANISH" }
+    ],
+    "theme":{
+        "file":[
+            "/ventoy/theme/theme_1920x1080.txt",
+            "/ventoy/theme/theme_2880x1920.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1,
+        "gfxmode": "max",
+        "ventoy_color": "#8aafc1",
+        "fonts":[
+            "/ventoy/theme/AdwaitaSans-24.pf2",
+            "/ventoy/theme/terminus-14.pf2",
+        ]
+    },
+    "menu_alias":[
+        {
+            "image": "/netboot.xyz.iso",
+            "alias": "netboot.xyz"
+        },
+        {
+            "image": "/cachyos-desktop-linux-2*****.iso",
+            "alias": "CachyOS"
+        },
+        {
+            "image": "/Fedora-Workstation-Live-42-*.*.x86_64.iso",
+            "alias": "Fedora 42"
+        },
+        {
+            "image": "/ubuntu-24.04.*-desktop-amd64.iso",
+            "alias": "Ubuntu 24.04"
+        },
+        {
+            "image": "/tails-amd64-****.iso",
+            "alias": "TailsOS"
+        },
+        {
+            "image": "/gparted-live-*.*.*-*-amd64.iso",
+            "alias": "GParted"
+        }
+    ],
+    "menu_class":[
+        {
+            "key": "EndeavourOS",
+            "class": "endeavouros"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "key": "archlinux",
+            "class": "arch"
+        },
+        {
+            "key": "mint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "openSUSE",
+            "class": "opensuse"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "Win",
+            "class": "windows"
+        },
+        {
+            "key": "cachyos",
+            "class": "cachyos"
+        },
+        {
+            "key": "tails",
+            "class": "tails"
+        },
+        {
+            "key": "",
+            "class": "linux"
+        }
+    ]
+}
