@@ -1,5 +1,8 @@
 # rajayonin's Ventoy theme
 
+![preview](https://github.com/user-attachments/assets/27e678c2-a4b6-4ba1-a2c9-a39cae98a86d)
+
+
 [Ventoy](https://www.ventoy.net/) es una herramienta open source para crear un
 medio booteable directamente desde el USB, el cual te permite arrancar
 directamente desde archivos ISO. Este te deja subirle todos los archivos que
