@@ -1,12 +1,7 @@
 # rajayonin's Ventoy theme
+Tema para [Ventoy](https://www.ventoy.net/), basado en el tema `Ventoy` de [distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes).
 
 ![preview](https://github.com/user-attachments/assets/27e678c2-a4b6-4ba1-a2c9-a39cae98a86d)
-
-
-[Ventoy](https://www.ventoy.net/) es una herramienta open source para crear un
-medio booteable directamente desde el USB, el cual te permite arrancar
-directamente desde archivos ISO. Este te deja subirle todos los archivos que
-quieras y te los muestra en un menú de inicio al encender el sistema.
 
 
 ## Como usarlo
