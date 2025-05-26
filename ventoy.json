@@ -27,19 +27,47 @@
         },
         {
             "image": "/Fedora-Workstation-Live-42-*.*.x86_64.iso",
-            "alias": "Fedora 42"
+            "alias": "Fedora Workstation 42"
         },
         {
             "image": "/ubuntu-24.04.*-desktop-amd64.iso",
-            "alias": "Ubuntu 24.04"
+            "alias": "Ubuntu Desktop 24.04 LTS"
         },
         {
-            "image": "/tails-amd64-****.iso",
-            "alias": "TailsOS"
+            "image": "/tails-amd64-6.**.iso",
+            "alias": "TailsOS 6"
         },
         {
             "image": "/gparted-live-*.*.*-*-amd64.iso",
             "alias": "GParted"
+        },
+        {
+            "image": "/linuxmint-22.*-cinnamon-64bit.iso",
+            "alias": "Linux Mint 22 (Cinnamon)"
+        },
+        {
+            "image": "/EndeavourOS_Mercury-Neo-202*.**.**.iso",
+            "alias": "EndevourOS Mercury Neo"
+        },
+        {
+            "image": "/boot-repair-disk-64bit.iso",
+            "alias": "GRUB Boot-Repair"
+        },
+        {
+            "image": "/microwin11.iso",
+            "alias": "MicroWin 11"
+        },
+        {
+            "image": "/microwin10.iso",
+            "alias": "MicroWin 10"
+        },
+        {
+            "image": "/manjaro-xfce-2*.*.*-******-linux6**.iso",
+            "alias": "Manjaro (XFCE)"
+        },
+        {
+            "image": "/pop-os_22.04_amd64_intel_53.iso",
+            "alias": "Pop!_OS 22.04 LTS"
         }
     ],
     "menu_class":[
@@ -80,7 +108,11 @@
             "class": "debian"
         },
         {
-            "key": "Win",
+            "key": "win11",
+            "class": "windows11"
+        },
+        {
+            "key": "win",
             "class": "windows"
         },
         {
@@ -90,6 +122,14 @@
         {
             "key": "tails",
             "class": "tails"
+        },
+        {
+            "key": "gparted",
+            "class": "tool"
+        },
+        {
+            "key": "boot-repair",
+            "class": "tool"
         },
         {
             "key": "",
