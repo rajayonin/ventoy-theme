@@ -68,6 +68,10 @@
         {
             "image": "/pop-os_22.04_amd64_intel_53.iso",
             "alias": "Pop!_OS 22.04 LTS"
+        },
+        {
+            "image": "/shredos-20**.**_**_x86-64_*.**_20******_vanilla.iso",
+            "alias": "ShredOS"
         }
     ],
     "menu_class":[
@@ -130,6 +134,10 @@
         {
             "key": "boot-repair",
             "class": "tool"
+        },
+        {
+            "key": "shredos",
+            "class": "shredos"
         },
         {
             "key": "",
